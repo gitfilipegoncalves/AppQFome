@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- NOME DO APLICATIVO -->
+    <string name="app_name">QFome</string>
+
+    <!-- MENUS -->
+    <!-- menu principal -->
+    <string name="sair_menu">Sair</string>
+    <string name="atualizar_menu">Atualizar</string>
+
+    <!-- menu favoritos -->
+
+</resources>
